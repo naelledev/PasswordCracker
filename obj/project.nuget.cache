@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZaWw/hV+OuAkdP6Xw1D4dj12iyLmLE2c7vbCeUmCKrAX0GgGAg7IZv1Z9YUnDzgftly6LnQQJtSKHOrl24rmAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\druja\\source\\repos\\BimboCracka\\BimboCracka\\BimboCracka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\druja\\.nuget\\packages\\system.codedom\\9.0.2\\system.codedom.9.0.2.nupkg.sha512",
+    "C:\\Users\\druja\\.nuget\\packages\\system.management\\9.0.2\\system.management.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
